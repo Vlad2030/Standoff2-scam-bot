@@ -10,7 +10,7 @@ open `api.py`and edit `API_ID = ''`
 open `donation_alerts.py`and edit `DonationAlerts_Link = ''`
 
 ## usage:
-*for windows:*
+### *for windows:*
 open SO2 SCAM BOT
 ### or (others)
 open cmd and write `python main.py`
