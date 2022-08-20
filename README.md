@@ -5,8 +5,8 @@
   pip install asyncio
   ```
 ## setup:
-> open `api.py`and edit `API_ID = ''`
-> open `donation_alerts.py`and edit `DonationAlerts_Link = ''`
+open `api.py`and edit `API_ID = ''`
+open `donation_alerts.py`and edit `DonationAlerts_Link = ''`
 
 ## usage:
 *for windows:*
