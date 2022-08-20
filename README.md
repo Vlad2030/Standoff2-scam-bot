@@ -22,3 +22,5 @@ open cmd and write `python main.py`
 if you have any issues, text me: https://t.me/delovoy_hui
 
 > ENJOY.its absolutely free but dont sell it. u're welcome :)
+
+only YOU are responsible for the bot and your actions
