@@ -16,7 +16,7 @@
 ## usage:
 ### *for windows:*
 open SO2 SCAM BOT
-### or (others)
+### or (for others)
 open cmd and write `python main.py`
 
 if you have any issues, text me: https://t.me/delovoy_hui
