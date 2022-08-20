@@ -7,11 +7,11 @@
   pip install asyncio
   ```
 ## setup:
-open `api.py` and edit `API_ID = ''`
+1. open `api.py` and edit `API_ID = ''`
 
-open `donation_alerts.py` and edit `DonationAlerts_Link = ''`
+2. open `donation_alerts.py` and edit `DonationAlerts_Link = ''`
 
-> extra: you can change photo. edit `message_photo = open('your photo', 'rb')`(21 line in main.py). and edit prices in texts.py (buy_cash).
+> extra: you can change photo. edit `message_photo = open('your photo', 'rb')` (21 line in main.py). and edit prices in texts.py (buy_cash).
 
 ## usage:
 ### *for windows:*
@@ -21,4 +21,4 @@ open cmd and write `python main.py`
 
 if you have any issues, text me: https://t.me/delovoy_hui
 
-> ENJOY. u're welcome :)
+> ENJOY.its absolutely free but dont sell it. u're welcome :)
