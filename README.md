@@ -11,8 +11,8 @@ open `donation_alerts.py`and edit `DonationAlerts_Link = ''`
 
 ## usage:
 *for windows:*
-> open SO2 SCAM BOT
+open SO2 SCAM BOT
 ### or (others)
-> open cmd and write `python main.py`
+open cmd and write `python main.py`
 
-# ENJOY :)
+> ENJOY :)
