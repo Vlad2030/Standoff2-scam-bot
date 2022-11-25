@@ -14,19 +14,23 @@ def BuyKeyboard():
 def Buy1LinkKeyboard():
     keyboard = types.InlineKeyboardMarkup(row_width=1)
     keyboard.add(types.InlineKeyboardButton(text=text.buy1_keyboard_text, url=donate.donate_link))
+    keyboard.add(types.InlineKeyboardButton(text=text.menu_text, callback_data='callback_menu'))
     return keyboard
 
 def Buy2LinkKeyboard():
     keyboard = types.InlineKeyboardMarkup(row_width=1)
     keyboard.add(types.InlineKeyboardButton(text=text.buy2_keyboard_text, url=donate.donate_link))
+    keyboard.add(types.InlineKeyboardButton(text=text.menu_text, callback_data='callback_menu'))
     return keyboard
 
 def Buy3LinkKeyboard():
     keyboard = types.InlineKeyboardMarkup(row_width=1)
     keyboard.add(types.InlineKeyboardButton(text=text.buy3_keyboard_text, url=donate.donate_link))
+    keyboard.add(types.InlineKeyboardButton(text=text.menu_text, callback_data='callback_menu'))
     return keyboard
 
 def Buy4LinkKeyboard():
     keyboard = types.InlineKeyboardMarkup(row_width=1)
     keyboard.add(types.InlineKeyboardButton(text=text.buy4_keyboard_text, url=donate.donate_link))
+    keyboard.add(types.InlineKeyboardButton(text=text.menu_text, callback_data='callback_menu'))
     return keyboard

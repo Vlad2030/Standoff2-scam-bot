@@ -15,7 +15,7 @@ except ImportError:
     os.system('pip install -r requirements.txt')
 
 # Авторизация бота
-bot = Bot(token='сюда токен', parse_mode=types.ParseMode.HTML)
+bot = Bot(token='ваш токен', parse_mode=types.ParseMode.HTML)
 dp = Dispatcher(bot)
 
 random_id = random.randint(10000, 99999)
@@ -48,6 +48,11 @@ async def CallbackBuy3(callback_query: types.CallbackQuery):
 async def CallbackBuy4(callback_query: types.CallbackQuery):
     await bot.answer_callback_query(callback_query.id)
     await callback_query.bot.edit_message_text(message_id=callback_query.message.message_id, chat_id=callback_query.message.chat.id, text=f'{text.buy_text}<code>{random_id}:{text.buy4_cash}</code>', reply_markup=keyboard.Buy4LinkKeyboard())
+
+@dp.callback_query_handler(text="callback_menu")
+async def CallbackMenu(callback_query: types.CallbackQuery):
+    await bot.answer_callback_query(callback_query.id)
+    await callback_query.bot.edit_message_text(message_id=callback_query.message.message_id, chat_id=callback_query.message.chat.id, text=text.main_text, reply_markup=keyboard.BuyKeyboard())
 
 # Запуск бота
 if __name__ == '__main__':
