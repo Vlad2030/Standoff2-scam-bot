@@ -3,24 +3,22 @@
 # Standoff2 Scam Bot
 ## install:
   ```
-  pip install aiogram
-  pip install asyncio
+  nothing needs to be done. the script will install everything by itself!
   ```
 ## setup:
-1. open `api.py` and edit `API_ID = ''`
+1. open `/versions/v1/modules/bot_token.py` and edit `TOKEN = ''`
 
-2. open `donation_alerts.py` and edit `DonationAlerts_Link = ''`
+2. open `/versions/v1/modules/donate.py` and edit `donate_link = ''`
 
-> extra: you can change photo. edit `message_photo = open('your photo', 'rb')` (21 line in main.py). and edit prices in texts.py (buy_cash).
 
 ## usage:
 ### *for windows:*
-open SO2 SCAM BOT
-### or (for others)
-open cmd and write `python main.py`
+open `start.bat`
+### or linux(for others)
+open `start.sh`
 
 if you have any issues, text me: https://t.me/delovoy_hui
 
-> ENJOY.its absolutely free but dont sell it. u're welcome :)
+> ENJOY! its absolutely free but dont sell it. u're welcome :)
 
 only YOU are responsible for the bot and your actions
