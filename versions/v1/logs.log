@@ -1,0 +1,13 @@
+2023-01-04 04:23:28.681 | INFO     | __main__:<module>:12 - importing frameworks..
+2023-01-04 04:23:28.682 | SUCCESS  | __main__:<module>:17 - frameworks imported!
+2023-01-04 04:23:28.695 | SUCCESS  | __main__:<module>:135 - bot started
+2023-01-04 04:23:31.231 | INFO     | __main__:Start:38 - /start from 1840037832 id
+2023-01-04 04:23:32.310 | INFO     | __main__:CallbackBuy1:52 - callback_buy1 from 1840037832 id
+2023-01-04 04:23:34.899 | INFO     | __main__:CallbackMenu:119 - callback_menu from 1840037832 id
+2023-01-04 04:23:35.823 | INFO     | __main__:CallbackBuy2:69 - callback_buy2 from 1840037832 id
+2023-01-04 04:23:37.139 | INFO     | __main__:CallbackMenu:119 - callback_menu from 1840037832 id
+2023-01-04 04:23:37.913 | INFO     | __main__:CallbackBuy3:86 - callback_buy3 from 1840037832 id
+2023-01-04 04:23:39.863 | INFO     | __main__:CallbackMenu:119 - callback_menu from 1840037832 id
+2023-01-04 04:23:43.797 | INFO     | __main__:CallbackBuy4:103 - callback_buy4 from 1840037832 id
+2023-01-04 04:23:45.561 | INFO     | __main__:CallbackMenu:119 - callback_menu from 1840037832 id
+2023-01-04 04:23:49.459 | WARNING  | __main__:<module>:137 - bot shutdown!
