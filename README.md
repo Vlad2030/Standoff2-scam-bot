@@ -1,4 +1,4 @@
-![Logo_og](https://user-images.githubusercontent.com/61238982/185759975-2bcb4b0d-9d40-43ab-a559-1dcf068bf6cd.jpg)
+![logo_22_2](https://user-images.githubusercontent.com/61238982/211483258-5f9948fb-4ac5-4ada-a906-ecf15b95f0ec.jpg)
 
 # Standoff2 Scam Bot
 ## install:
