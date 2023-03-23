@@ -6,6 +6,7 @@
 ## setup:
 1. open `.env` file
 2. edit `TOKEN=` and `DONATE_LINK=`
+![](https://github.com/Vlad2030/Standoff2-scam-bot/blob/main/images/env.png)
 
 ## install dependencies
 ### *for windows:*
