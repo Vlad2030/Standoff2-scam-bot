@@ -21,7 +21,7 @@ open `start.bat` or `python main.py`
 ### *for linux or others*
 write to terminal `start.sh` or `python3 main.py`
 
-
+##
 if you have any issues, text me: https://t.me/delovoy_hui
 
 > ENJOY! its absolutely free but dont sell it. u're welcome :)
