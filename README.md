@@ -7,17 +7,20 @@
 ## setup:
 1. open `.env` file
 2. edit `TOKEN=` and `DONATE_LINK=`
+
+## install dependencies
 ### *for windows:*
-3. open `setup.bat`
+open `setup.bat`
 ### *for linux or others*
-3. write to terminal `sh setup.sh`
+write to terminal `sh setup.sh`
 
 ## usage:
 ### *for windows:*
-open `start.bat`
+open `start.bat` or `python main.py`
 
 ### *for linux or others*
-write to terminal `start.sh`
+write to terminal `start.sh` or `python3 main.py`
+
 
 if you have any issues, text me: https://t.me/delovoy_hui
 
