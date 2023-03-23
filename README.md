@@ -1,8 +1,6 @@
 ![logo_22_2](https://user-images.githubusercontent.com/61238982/211483258-5f9948fb-4ac5-4ada-a906-ecf15b95f0ec.jpg)
 
-# Standoff2 Scam Bot
-![](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/Aiogram-316192?style=for-the-badge&logo=aiohttp&logoColor=white&color=3776AB)
+# Standoff2 Scam Bot ![](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white&color=3776AB) ![](https://img.shields.io/badge/Aiogram-316192?style=for-the-badge&logo=aiohttp&logoColor=white&color=3776AB)
 
 
 ## setup:
