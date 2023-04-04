@@ -25,5 +25,5 @@ jobs:
     - name: Run
       run: python3 main.py
       env:
-        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_BOT_TOKEN: 5494327177:AAFtHAtLqc840K7Pvnh7mKOtuuWxSkwVLLc
         DONATE_LINK: ${{ secrets.DONATE_LINK }}
