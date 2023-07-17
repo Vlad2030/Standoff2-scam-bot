@@ -3,6 +3,7 @@
 from aiogram import executor
 from loguru import logger
 
+import handlers
 from loader import dp
 
 logger.add(
